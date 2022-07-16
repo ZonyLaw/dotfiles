@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sunny_law@hotmail.com
+	name = Sunny Law
